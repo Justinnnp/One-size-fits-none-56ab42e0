@@ -1,0 +1,16 @@
+body {
+    background-color: #5D45FF;
+}
+h2 {
+    color: rgb(143, 19, 143);
+}
+ul li {
+    font-size: 30px;
+}
+ol li {
+    color: red;
+    font-size: 25px;
+}
+img {
+    width: 200px;
+}
